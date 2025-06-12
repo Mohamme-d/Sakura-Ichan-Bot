@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.ibb.co/vCdZ7hQ/sakura-preview.jpg" width="350" alt="Sakura-Chan Bot"/>
+  <img src="https://i.ibb.co/6ctg381R/0589d50890c154ed2c27832148d28e25.jpg" width="350" alt="Sakura-Chan Bot"/>
 </p>
 
 <h1 align="center">🌸✨ ساكورا-تشان | Sakura-chan WhatsApp Bot</h1>
