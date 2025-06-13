@@ -1,0 +1,24 @@
+{
+  "name": "whatsapp-bot",
+  "version": "1.0.0",
+  "description": "بوت واتساب لتحميل صوت يوتيوب باستخدام Baileys",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "سينباي",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.0",
+    "chalk": "^4.1.2",
+    "fluent-ffmpeg": "^2.1.3",
+    "jimp": "^0.16.13",
+    "node-fetch": "^2.6.7",
+    "node-id3": "^0.2.9",
+    "pino": "^8.15.0",
+    "qrcode-terminal": "^0.12.0",
+    "youtube-yts": "^2.0.0",
+    "youtubedl-core": "^4.11.7",
+    "ytdl-core": "^4.11.5"
+  }
+}
